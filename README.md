@@ -66,17 +66,17 @@ Aamarli retrieves the current exchange rate, allowing you to quickly assess the 
 
 ## Preview
 <img src="https://github.com/SidSn/Aamarli/assets/93449816/5bdb9cfa-eba8-47b4-b7ff-eed48832cfc4" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/d12d46e3-fc98-4383-97eb-5246a9ccaf4c" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/ef264292-7a02-4096-ab00-cbeba54181a0" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/43c6737f-faf3-40cc-a938-c94e8bc87871" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/cfbc71d7-d32c-4fed-af3b-08c05f00a107" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/dae852a3-c586-4a6d-a352-a43278586e85" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/de398eda-68cb-4a59-a897-6154afb4d478" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/8a9b41fb-6cdc-4e6b-979a-c477ca8698fc" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/ff925fea-6cc1-4581-acc4-5aa814d8e34c" alt="drawing" style="width:200px;"/>
 
 
-![Screenshot_20231030-195047](https://github.com/SidSn/Aamarli/assets/93449816/d12d46e3-fc98-4383-97eb-5246a9ccaf4c)
-![Screenshot_20231030-195100](https://github.com/SidSn/Aamarli/assets/93449816/ef264292-7a02-4096-ab00-cbeba54181a0)
-![Screenshot_20231030-195107](https://github.com/SidSn/Aamarli/assets/93449816/43c6737f-faf3-40cc-a938-c94e8bc87871)
-![Screenshot_20231030-195115](https://github.com/SidSn/Aamarli/assets/93449816/cfbc71d7-d32c-4fed-af3b-08c05f00a107)
-![Screenshot_20231030-195128](https://github.com/SidSn/Aamarli/assets/93449816/dae852a3-c586-4a6d-a352-a43278586e85)
-![Screenshot_20231030-195039](https://github.com/SidSn/Aamarli/assets/93449816/de398eda-68cb-4a59-a897-6154afb4d478)
-![Screenshot_20231030-195009](https://github.com/SidSn/Aamarli/assets/93449816/8a9b41fb-6cdc-4e6b-979a-c477ca8698fc)
 
-![Screenshot_20231030-194953](https://github.com/SidSn/Aamarli/assets/93449816/ff925fea-6cc1-4581-acc4-5aa814d8e34c)
 
 ## Features
 
