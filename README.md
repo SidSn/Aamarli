@@ -65,7 +65,7 @@ Select the base currency (e.g., USD, EUR, GBP) and the desired target currency (
 Aamarli retrieves the current exchange rate, allowing you to quickly assess the value of your currency in Algerian Dinar.
 
 ## Preview
-<img src="[drawing.jpg](https://github.com/SidSn/Aamarli/assets/93449816/5bdb9cfa-eba8-47b4-b7ff-eed48832cfc4)" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/SidSn/Aamarli/assets/93449816/5bdb9cfa-eba8-47b4-b7ff-eed48832cfc4" alt="drawing" style="width:200px;"/>
 
 
 ![Screenshot_20231030-195047](https://github.com/SidSn/Aamarli/assets/93449816/d12d46e3-fc98-4383-97eb-5246a9ccaf4c)
